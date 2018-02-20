@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/data1/artin/code/Cell_Classification/data/CiliaImages/model/model.ckpt"
+all_model_checkpoint_paths: "/media/data1/artin/code/Cell_Classification/data/CiliaImages/model/model.ckpt"
